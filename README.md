@@ -61,7 +61,6 @@ Weather forecast app using API integration.
 ---
 
 ## 📈 Contribution Graph
-
 ![Snake animation](https://github.com/venky01-cmd/venky01-cmd/blob/output/github-contribution-grid-snake.svg)
 
 ---
