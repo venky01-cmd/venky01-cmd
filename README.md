@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venky01-cmd/venky01-cmd/main/profile.png" width="220" style="border-radius:50%">
+</p>
+
 # Hi 👋, I'm Venkat Gangisetty
 
 ### AI & Data Science Graduate | Python Developer | Tech Enthusiast
