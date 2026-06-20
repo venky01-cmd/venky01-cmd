@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venky01-cmd/venky01-cmd/main/profile.png" width="220" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/venky01-cmd/venky01-cmd/refs/heads/main/ChatGPT%20Image%20Jun%2020%2C%202026%2C%2003_33_23%20PM.png" width="220" style="border-radius:50%">
 </p>
 
 # Hi 👋, I'm Venkat Gangisetty
