@@ -19,7 +19,7 @@
 <a href="https://github.com/venky01-cmd" target="blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/venkat gangisetty" target="blank">
+<a href="https://www.linkedin.com/in/venkat-gangisetty-6682b027b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
